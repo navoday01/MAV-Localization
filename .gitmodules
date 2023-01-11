@@ -1,3 +1,6 @@
 [submodule "EKF-MAV"]
 	path = EKF-MAV
 	url = https://github.com/navoday01/EKF-MAV.git
+[submodule "MAV-PoseVision"]
+	path = MAV-PoseVision
+	url = https://github.com/navoday01/MAV-PoseVision.git
