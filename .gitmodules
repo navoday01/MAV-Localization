@@ -4,3 +4,6 @@
 [submodule "MAV-PoseVision"]
 	path = MAV-PoseVision
 	url = https://github.com/navoday01/MAV-PoseVision.git
+[submodule "UKF-MAV"]
+	path = UKF-MAV
+	url = https://github.com/navoday01/UKF-MAV.git
